@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: GreyGone
+## Notes: Automatically deletes grey items.
+## Author: Farhood
+## Version: v1.0
+## SavedVariables: GreyGoneDB
+
+GreyGone.lua
