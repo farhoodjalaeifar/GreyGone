@@ -12,7 +12,7 @@
 
 ## 📥 Installation
 
-1.  Download the **GreyGone.zip** file.
+1.  Download the **GreyGone.zip** file.(From releases or this link: https://github.com/farhoodjalaeifar/GreyGone/releases/download/v1.0/GreyGone.zip)
 2.  Extract the `GreyGone` folder.
 3.  Move the folder to your WoW Addons directory:
     *   `World of Warcraft\_classic_era_\Interface\AddOns\`
