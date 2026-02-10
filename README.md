@@ -31,6 +31,9 @@ A: No. Quest items are not classified as "Grey" (Poor quality) by the game.
 
 **Q: Does it work in Combat?**
 A: No. For safety reasons, the addon pauses while you are in combat.
+## Screenshots
+[screenshots/Menu Screenshot.jpg](https://github.com/farhoodjalaeifar/GreyGone/blob/01e8b4c6fd941420cb42bf3607a9b13b69e0638c/screenshots/Menu%20Screenshot.jpg)
+[screenshots/Remove items display (triggerable).png](https://github.com/farhoodjalaeifar/GreyGone/blob/01e8b4c6fd941420cb42bf3607a9b13b69e0638c/screenshots/Remove%20items%20display%20(triggerable).png)
 
 ---
 **Author:** Farhood
